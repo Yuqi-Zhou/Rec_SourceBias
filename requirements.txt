@@ -1,0 +1,12 @@
+pandas==2.1.4
+pytorch-pretrained-bert==0.6.2
+pytorch-transformers==1.2.0
+spacy==3.7.2
+swifter==1.4.0
+tensorflow==2.15.0.post1
+tensorflow-estimator==2.15.0
+tensorflow-gpu==2.9.0
+torch==2.1.2+cu118
+torchaudio==2.1.2+cu118
+torchvision==0.16.2+cu118
+transformers==4.39.3
