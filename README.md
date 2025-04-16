@@ -104,9 +104,11 @@ The required packages can be installed via `pip install -r requirements.txt`.
 
 If you find our code or work useful for your research, please cite our work.
 
+```
 @article{zhou2024source,
   title={Source Echo Chamber: Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop},
   author={Zhou, Yuqi and Dai, Sunhao and Pang, Liang and Wang, Gang and Dong, Zhenhua and Xu, Jun and Wen, Ji-Rong},
   journal={arXiv preprint arXiv:2405.17998},
   year={2024}
 }
+```
