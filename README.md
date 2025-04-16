@@ -1,3 +1,6 @@
+The implementation for SIGIR 2025: Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop.
+
+
 ## Quick Start
 
 - For details of sequential recommendation models, please check the code in the folder `src/model`.
