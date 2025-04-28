@@ -106,7 +106,7 @@ If you find our code or work useful for your research, please cite our work.
 
 ```
 @article{zhou2025source,
-  title={Source Echo Chamber: Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop},
+  title={Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop},
   author={Zhou, Yuqi and Dai, Sunhao and Pang, Liang and Wang, Gang and Dong, Zhenhua and Xu, Jun and Wen, Ji-Rong},
   booktitle={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   year={2025}
