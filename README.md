@@ -105,10 +105,10 @@ The required packages can be installed via `pip install -r requirements.txt`.
 If you find our code or work useful for your research, please cite our work.
 
 ```
-@article{zhou2025length,
+@article{zhou2025source,
   title={Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop},
   author={Zhou, Yuqi and Dai, Sunhao and Pang, Liang and Wang, Gang and Dong, Zhenhua and Xu, Jun and Wen, Ji-Rong},
-  journal={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics},
+  journal={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   year={2025}
 }
 ```
